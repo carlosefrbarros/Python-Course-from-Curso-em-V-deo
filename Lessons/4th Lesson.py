@@ -1,3 +1,5 @@
+# 4ª Aula - Primeiros Comandos em Python3
+
 print('Olá, Mundo!')
 
 print(7+4)
@@ -24,13 +26,13 @@ peso = input('Qual é o seu peso? ')
 
 print(nome, idade, peso)
 
-#exercise 01
+# exercise 01
 
 nome = input('Qual é o seu nome?')
 
 print('Olá ', nome, '! Prazer em te conhecer!')
 
-#exercise 02
+# exercise 02
 
 dia = input('Dia = ')
 mes = input('Mês = ')
@@ -38,7 +40,7 @@ ano = input('Ano = ')
 
 print('Você nasceu no dia ', dia, 'de ', mes, 'de ', ano, '. Correto?')
 
-#exercise 03
+# exercise 03
 
 num1 = input('Número 1 = ')
 num2 = input('Número 2 = ')
